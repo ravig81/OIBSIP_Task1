@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\shivpoojan gupta\\AppData\\Local\\Temp\\e658c184-3dd3-4dfe-8ffb-c70e730d43f8_mysql-connector-j-9.0.0 (1).zip.3f8\\mysql-connector-j-9.0.0\\mysql-connector-j-9.0.0.jar",
+        "c:\\mysql-connector-j-9.0.0\\mysql-connector-j-9.0.0.jar"
+    ]
+}
